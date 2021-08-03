@@ -10,6 +10,18 @@
 
 :large_blue_circle: An application that detects the vibration that occurs when the wrong password is entered on your Mac Os device and takes photos from your camera when this vibration occurs. Made using python opencv.
 
+## Usage :
+
+* ### Install requirements:
+```
+pip install -r requirements.txt
+```
+
+* ### Run Application:
+```
+python init.py
+```
+
 <h3 align="center">Demo Video</h3>
 
 https://user-images.githubusercontent.com/52050284/128033103-0005f162-eeb3-4d1f-b8dd-14574478a357.mp4
